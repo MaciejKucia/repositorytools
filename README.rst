@@ -9,7 +9,7 @@
 Python API and command-line interface for working with Sonatype Nexus
 =====================================================================
 
-.. warning:: While Nexus does support multiple different artefact types, this project is only supporting Apache Maven type (Java).
+While Nexus does support multiple different artefact types, this project is only supporting Apache Maven type (Java).
 
 How to install
 --------------
